@@ -1,4 +1,4 @@
-id,titulo,poster,genero,titulo2
-1,Inception,https://image.tmdb.org/t/p/w185/f4voSsbPTvaQwicwd1dyxICow6c.jpg,almendre,peru chile
-2,The Matrix,https://image.tmdb.org/t/p/w185/errzTqo0JsYZpnGRQMoeqvXhpHN.jpg,choque,bilivia
-3,Avatar,https://image.tmdb.org/t/p/w185/xPl1eQHVVCYurNarHrzDjW3wfjO.jpg,wilson,argentina
+titulo,poster,genero,titulo2
+Película 1,https://image.tmdb.org/t/p/w185/f4voSsbPTvaQwicwd1dyxICow6c.jpg,Drama,Comedia,Título Alternativo 1
+Película 2,https://image.tmdb.org/t/p/w185/errzTqo0JsYZpnGRQMoeqvXhpHN.jpg,Acción,Aventura,Título Alternativo 2
+Película 3,https://image.tmdb.org/t/p/w185/xPl1eQHVVCYurNarHrzDjW3wfjO.jpg,Drama,Aventura,Título Alternativo 3
