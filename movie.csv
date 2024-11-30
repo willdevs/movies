@@ -1,4 +1,4 @@
-id,title,poster,description,genre,releaseYear
-1,Inception,https://image.tmdb.org/t/p/w185/f4voSsbPTvaQwicwd1dyxICow6c.jpg,A mind-bending thriller,Sci-Fi,2010
-2,The Matrix,https://image.tmdb.org/t/p/w185/errzTqo0JsYZpnGRQMoeqvXhpHN.jpg,A hacker discovers reality,Action,1999
-3,Avatar,https://image.tmdb.org/t/p/w185/xPl1eQHVVCYurNarHrzDjW3wfjO.jpg,A sci-fi adventure in Pandora,Sci-Fi,2009
+id,titulo,poster,genero,titulo2
+1,Inception,https://image.tmdb.org/t/p/w185/f4voSsbPTvaQwicwd1dyxICow6c.jpg,almendre,peru chile
+2,The Matrix,https://image.tmdb.org/t/p/w185/errzTqo0JsYZpnGRQMoeqvXhpHN.jpg,choque,bilivia
+3,Avatar,https://image.tmdb.org/t/p/w185/xPl1eQHVVCYurNarHrzDjW3wfjO.jpg,wilson,Sci-Fi,argentina
